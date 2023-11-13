@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.startingservices"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.startingservices"
